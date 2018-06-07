@@ -1,8 +1,8 @@
 # WorthTask
 
-1- Build with Maven using Java 10.
-2- TestNG Framework and Selenium are used in Java.
-3- Only happy path with mandatory fields are checked.
+1- Build with Maven using Java 10. 
+2- TestNG Framework and Selenium are used in Java. 
+3- Only happy path with mandatory fields are checked. 
 4- Number of test cases are be able to increased. Only two test cases are created in this test suite.
 
 
