@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+	<parameter name="browser" value="chrome" />
+	<test name="Test" preserve-order="true">
+		<classes>
+			<class name="com.worth.TaxOrSocialTest">
+				<methods>
+               	 <include name="checkLandingPage" />
+               	 <include name="startYourApplication" />
+               	 <include name="selectTaxSocialSecurityContributions" />
+               	 <include name="fillForumCountryResidence" />
+               	 <include name="fillForumPersonalInformation" />
+               	 <include name="fillForumNationality" />
+               	 <include name="checkSummaryInfo" />
+               	 <include name="completeYourApplication" />      	 
+           		 </methods>
+           	</class>	 
+           	
+           	<class name="com.worth.DrivingLicenceTest">
+				<methods>
+               	 <include name="checkLandingPage" />
+               	 <include name="startYourApplication" />
+               	 <include name="selectRenewingDrivingLicense" />
+               	 <include name="fillForumCountryResidence" />
+               	 <include name="fillForumPersonalInformation" />
+               	 <include name="fillForumNationality" />
+               	 <include name="checkSummaryInfo" />
+               	 <include name="completeYourApplication" />      	 
+           		 </methods>
+           	</class>
+		</classes>
+	</test>
+
+</suite> <!-- Suite -->

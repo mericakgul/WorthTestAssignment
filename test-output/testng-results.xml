@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="16" passed="16" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-06-07T19:36:26Z" name="Suite" finished-at="2018-06-07T19:38:23Z" duration-ms="117066">
+    <groups>
+    </groups>
+    <test started-at="2018-06-07T19:36:26Z" name="Test" finished-at="2018-06-07T19:38:23Z" duration-ms="117066">
+      <class name="com.worth.TaxOrSocialTest">
+        <test-method is-config="true" signature="initializeDrivers(java.lang.String)[pri:0, instance:com.worth.TaxOrSocialTest@5aebe890]" started-at="2018-06-07T22:36:26Z" name="initializeDrivers" finished-at="2018-06-07T22:36:34Z" duration-ms="7272" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDrivers -->
+        <test-method signature="checkLandingPage()[pri:0, instance:com.worth.TaxOrSocialTest@5aebe890]" started-at="2018-06-07T22:36:34Z" name="checkLandingPage" finished-at="2018-06-07T22:36:39Z" duration-ms="5179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLandingPage -->
+        <test-method signature="startYourApplication()[pri:0, instance:com.worth.TaxOrSocialTest@5aebe890]" started-at="2018-06-07T22:36:39Z" name="startYourApplication" finished-at="2018-06-07T22:36:41Z" duration-ms="1736" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startYourApplication -->
+        <test-method signature="selectTaxSocialSecurityContributions()[pri:0, instance:com.worth.TaxOrSocialTest@5aebe890]" started-at="2018-06-07T22:36:41Z" name="selectTaxSocialSecurityContributions" finished-at="2018-06-07T22:36:43Z" duration-ms="2632" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectTaxSocialSecurityContributions -->
+        <test-method signature="fillForumCountryResidence()[pri:0, instance:com.worth.TaxOrSocialTest@5aebe890]" started-at="2018-06-07T22:36:43Z" name="fillForumCountryResidence" finished-at="2018-06-07T22:36:57Z" duration-ms="13304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillForumCountryResidence -->
+        <test-method signature="fillForumPersonalInformation()[pri:0, instance:com.worth.TaxOrSocialTest@5aebe890]" started-at="2018-06-07T22:36:57Z" name="fillForumPersonalInformation" finished-at="2018-06-07T22:37:07Z" duration-ms="10806" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillForumPersonalInformation -->
+        <test-method signature="fillForumNationality()[pri:0, instance:com.worth.TaxOrSocialTest@5aebe890]" started-at="2018-06-07T22:37:07Z" name="fillForumNationality" finished-at="2018-06-07T22:37:14Z" duration-ms="6161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillForumNationality -->
+        <test-method signature="checkSummaryInfo()[pri:0, instance:com.worth.TaxOrSocialTest@5aebe890]" started-at="2018-06-07T22:37:14Z" name="checkSummaryInfo" finished-at="2018-06-07T22:37:16Z" duration-ms="2148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkSummaryInfo -->
+        <test-method signature="completeYourApplication()[pri:0, instance:com.worth.TaxOrSocialTest@5aebe890]" started-at="2018-06-07T22:37:16Z" name="completeYourApplication" finished-at="2018-06-07T22:37:26Z" duration-ms="9797" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- completeYourApplication -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.worth.TaxOrSocialTest@5aebe890]" started-at="2018-06-07T22:37:26Z" name="afterTest" finished-at="2018-06-07T22:37:27Z" duration-ms="1247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.worth.TaxOrSocialTest -->
+      <class name="com.worth.DrivingLicenceTest">
+        <test-method is-config="true" signature="initializeDrivers(java.lang.String)[pri:0, instance:com.worth.DrivingLicenceTest@65d09a04]" started-at="2018-06-07T22:37:27Z" name="initializeDrivers" finished-at="2018-06-07T22:37:31Z" duration-ms="4289" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDrivers -->
+        <test-method signature="checkLandingPage()[pri:0, instance:com.worth.DrivingLicenceTest@65d09a04]" started-at="2018-06-07T22:37:31Z" name="checkLandingPage" finished-at="2018-06-07T22:37:36Z" duration-ms="5122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLandingPage -->
+        <test-method signature="startYourApplication()[pri:0, instance:com.worth.DrivingLicenceTest@65d09a04]" started-at="2018-06-07T22:37:36Z" name="startYourApplication" finished-at="2018-06-07T22:37:38Z" duration-ms="1689" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startYourApplication -->
+        <test-method signature="selectRenewingDrivingLicense()[pri:0, instance:com.worth.DrivingLicenceTest@65d09a04]" started-at="2018-06-07T22:37:38Z" name="selectRenewingDrivingLicense" finished-at="2018-06-07T22:37:40Z" duration-ms="2600" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectRenewingDrivingLicense -->
+        <test-method signature="fillForumCountryResidence()[pri:0, instance:com.worth.DrivingLicenceTest@65d09a04]" started-at="2018-06-07T22:37:40Z" name="fillForumCountryResidence" finished-at="2018-06-07T22:37:54Z" duration-ms="13288" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillForumCountryResidence -->
+        <test-method signature="fillForumPersonalInformation()[pri:0, instance:com.worth.DrivingLicenceTest@65d09a04]" started-at="2018-06-07T22:37:54Z" name="fillForumPersonalInformation" finished-at="2018-06-07T22:38:05Z" duration-ms="11157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillForumPersonalInformation -->
+        <test-method signature="fillForumNationality()[pri:0, instance:com.worth.DrivingLicenceTest@65d09a04]" started-at="2018-06-07T22:38:05Z" name="fillForumNationality" finished-at="2018-06-07T22:38:11Z" duration-ms="5809" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillForumNationality -->
+        <test-method signature="checkSummaryInfo()[pri:0, instance:com.worth.DrivingLicenceTest@65d09a04]" started-at="2018-06-07T22:38:11Z" name="checkSummaryInfo" finished-at="2018-06-07T22:38:13Z" duration-ms="1799" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkSummaryInfo -->
+        <test-method signature="completeYourApplication()[pri:0, instance:com.worth.DrivingLicenceTest@65d09a04]" started-at="2018-06-07T22:38:13Z" name="completeYourApplication" finished-at="2018-06-07T22:38:22Z" duration-ms="9710" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- completeYourApplication -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.worth.DrivingLicenceTest@65d09a04]" started-at="2018-06-07T22:38:22Z" name="afterTest" finished-at="2018-06-07T22:38:23Z" duration-ms="1191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.worth.DrivingLicenceTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
